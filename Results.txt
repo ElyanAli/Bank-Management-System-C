@@ -1,0 +1,14 @@
+Password details: bank123
+
+2023-02-18 12:21:40: Account 123 created with initial balance $321.00
+
+2023-02-18 12:21:46: $321.00 deposited into account 123
+Customer name: Ali
+New account balance: $642.00
+
+
+2023-02-18 12:21:54: $222.00 withdrawn from account 123
+Customer name: Ali
+New account balance: $420.00
+
+2023-02-18 12:21:58: Account 123 deleted
